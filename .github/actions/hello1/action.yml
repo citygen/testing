@@ -1,4 +1,4 @@
-- name: Start MySQL
+    - name: Start MySQL
       uses: samin/mysql-action@v1.3
       with:
         # The port of host
