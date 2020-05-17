@@ -21,5 +21,5 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
 
-    - uses: /.github/actions/hello1
-    - uses: /.github/actions/hello
+    - uses: citygen/testing@.github/actions/hello1
+    - uses: citygen/testing@.github/actions/hello
