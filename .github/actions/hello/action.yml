@@ -1,0 +1,4 @@
+   - name: PHP Runner
+      uses: franzliedke/gh-action-php@0.2.0
+      with: 
+        php: 'index.php' 
