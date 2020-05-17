@@ -51,4 +51,4 @@ jobs:
         mysql user: 'roottest'
         # MYSQL_PASSWORD - specified superuser password which user is power for created database
         mysql password: 'roottest'
-    - uses: hello
+    - uses: /hello
