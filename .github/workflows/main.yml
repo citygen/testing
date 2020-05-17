@@ -22,5 +22,5 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@master
       name: Checkout
-    - uses: citygen/testing/.github/actions/hello1
-    - uses: citygen/testing/.github/actions/hello
+    - uses: citygen/testing/.github/actions/hello1@master
+    - uses: citygen/testing/.github/actions/hello@master
